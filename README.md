@@ -17,7 +17,8 @@ The dashboard leverages official UK employment data and provides insights into:
   - Embedded employment dataset
   - Custom calculations, filters, and views
   - Interactive dashboards with charts, maps, and tables
-![Screenshot 2025-06-10 090910](https://github.com/user-attachments/assets/4c03904b-1f8e-42cd-b76c-6c4f3dc85b27)
+
+# ![Screenshot 2025-06-10 090910](https://github.com/user-attachments/assets/4c03904b-1f8e-42cd-b76c-6c4f3dc85b27)
 [Link to dashboard](https://public.tableau.com/app/profile/olamide.thomas/viz/UKEmploymentdata2011-2014/Dashboard1)
 
 
