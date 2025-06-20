@@ -4,12 +4,7 @@ This repository contains an interactive Tableau dashboard created to visualize e
 
 ## 📈 Overview
 
-The dashboard leverages official UK employment data and provides insights into:
-
-- Employment rate trends by year and region
-- Unemployment distribution across age groups and sectors
-- Gender-based employment statistics
-- Sector-wise employment comparison
+The dashboard is used to check the Industry growth in the UK and check the best industry to invest in, using Tableau 
 
 ## 📁 Contents
 
